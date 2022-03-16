@@ -1,6 +1,6 @@
 <h1> Igor Zaverukha<h1>
 <h2>Contact Info<h2>
- <ul">
+ <ul>
      <li ><a href="https://github.com/pmzaverukha">github</a></li>
      <li class="link"><a href="mailto:dev.zaver@gmail.com">gmail</a></li>
      <li class="link"><a href="https://t.me/adriano_zaver">telegram</a></li>
@@ -11,7 +11,7 @@ Strong analytical and troubleshooting skills. </p>
 <p>Open-minded and reliable person with excellent interpersonal and communications skills, with attention to detail and the bigger picture in mind.</p>
 <p>Superior capacity of understanding new concepts and applying them correctly.</p>
 <h2>Skills</h2>
- <ul">
+ <ul>
    <li >HTML</li>
    <li >CSS</li>
    <li >Git</li>
